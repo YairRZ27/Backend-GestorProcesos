@@ -1,0 +1,4 @@
+Comandos:
+pip install pymongo fastapi uvicorn
+
+Ejecucion: Ejecutar main.py
